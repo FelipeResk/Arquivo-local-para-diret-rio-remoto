@@ -1,3 +1,3 @@
 # Objetivos:
 
-1. Criar um repositório local e adicioná-lo ao nosso GitHub remoto; [ ]
+1. Criar um repositório local e adicioná-lo ao nosso GitHub remoto; [x]
